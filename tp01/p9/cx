@@ -1,0 +1,36 @@
+#!/bin/bash
+# antes de correr e necessario dar permissoes :
+# chmod 755 <script-name>
+# para correr:
+# ./cx <file-name>
+
+# os argumentos estao guardados em $0, $1, ...
+# $0 e o nome do script
+# $# e o numero de argumentos
+# -ne significa not equals
+if [ $# -ne 1 ]; then
+	echo "usage : $0 <file-name>"
+	# sair com o codigo de erro 1
+	exit 1
+fi
+
+# -f FILE retorna verdadeiro se FILE existir
+# (return true value if file exists and regular file)
+if  ! [ -f $1.c ]; then
+	echo "error : file $1.c not found"
+	exit 2
+fi
+
+# a flag -f (force) nao mostra a mensagem se o ficheiro nao existir
+rm -f $1.o
+rm -f $1
+gcc $1.c -o $1
+
+# se o exit value da compilacao for diferente de 0
+# escrever mensagem de erro
+# o exit value e dado por '$?'
+if [ $? -ne 0 ]; then
+	echo "COMPILATION ERROR"
+else
+	./$1
+fi

@@ -1,0 +1,4 @@
+Usando um editor de texto crie um ficheiro com um conteúdo à sua escolha e dê-lhe o nome infile.txt.
+Volte a executar o programa e interprete os resultados.
+Verifique se o conteúdo do ficheiro outfile.txt é o esperado.
+Utilizando parâmetros da linha de comandos...
