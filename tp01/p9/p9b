@@ -1,0 +1,14 @@
+#!/bin/bash
+
+# mostra a versao do bash utilizada
+# echo "Bash version ${BASH_VERSION}"
+
+if [ $# -ne 1 ]; then
+	echo "usage : $0 <num-folders>"
+	exit 1
+fi
+
+for (( i=1 ; i <= $1 ; i++ ))
+do
+	mkdir prob$i
+done
