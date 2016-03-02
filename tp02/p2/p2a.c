@@ -29,7 +29,7 @@ int main(int argc, char* argv[]) {
 	while ((fgets(buf, BUF_LENGTH, src)) != NULL) {
 		fputs(buf, dst);
 	}
-	fclose(src);
+	fclose(src);cd ..
 	fclose(dst);
 
 	t2 = clock();
