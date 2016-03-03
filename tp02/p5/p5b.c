@@ -11,8 +11,14 @@ int main(void) {
 		perror("f1.txt ");
 		exit(1);
 	}
-	write(fd, text1, 5);
-	write(fd, text2, 5);
+	if ((write(fd, text1, 5)) < 0) {
+		perror("write() ");
+		exit(2);
+	}
+	if ((write(fd, text2, 5)) < 0) {
+		perror("write() ");
+		exit(2);
+	}
 	close(fd);
 	return 0;
 }
