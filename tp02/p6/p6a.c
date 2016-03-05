@@ -58,7 +58,10 @@ int main(int argc, char *argv[]) {
 		//     time_t st_mtime : time of last modification
 		// 	   time_t st_ctime : time of last status change
 		// };
-		lstat(direntp->dname, &stat_buf);
+		if ((lstat(direntp->d_name, &stat_buf)) == -1) {
+			perror("lstat ");
+			exit(3);
+		}
 		// S_ISREG() : returns true if regular file
 		// S_ISDIR() : returns true if directory
 		if (S_ISREG(stat_buf.st_mode)) str = "regular";
