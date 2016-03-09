@@ -1,0 +1,1307 @@
+/home/joaopsilva/Documents/SOPE/:
+total 36
+drwxrwxr-x  6 joaopsilva joaopsilva 4096 Mar  8 21:27 .
+drwxr-xr-x  6 joaopsilva joaopsilva 4096 Fev 29 16:21 ..
+drwxrwxr-x  8 joaopsilva joaopsilva 4096 Mar  9 12:30 .git
+-rw-rw-r--  1 joaopsilva joaopsilva   30 Mar  1 21:38 .gitignore
+-rw-rw-r--  1 joaopsilva joaopsilva   25 Mar  1 21:38 .gitignore~
+-rw-rw-r--  1 joaopsilva joaopsilva   13 Fev 28 02:04 README.md
+drwxrwxr-x  9 joaopsilva joaopsilva 4096 Mar  1 21:39 tp01
+drwxrwxr-x  8 joaopsilva joaopsilva 4096 Mar  4 14:11 tp02
+drwxrwxr-x 12 joaopsilva joaopsilva 4096 Mar  9 14:05 tp03
+
+/home/joaopsilva/Documents/SOPE/.git:
+total 60
+drwxrwxr-x   8 joaopsilva joaopsilva 4096 Mar  9 12:30 .
+drwxrwxr-x   6 joaopsilva joaopsilva 4096 Mar  8 21:27 ..
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 branches
+-rw-rw-r--   1 joaopsilva joaopsilva   31 Mar  9 12:30 COMMIT_EDITMSG
+-rw-rw-r--   1 joaopsilva joaopsilva  270 Fev 28 02:11 config
+-rw-rw-r--   1 joaopsilva joaopsilva   73 Fev 28 02:04 description
+-rw-rw-r--   1 joaopsilva joaopsilva   23 Fev 28 02:04 HEAD
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 hooks
+-rw-rw-r--   1 joaopsilva joaopsilva 4360 Mar  9 12:29 index
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 info
+drwxrwxr-x   3 joaopsilva joaopsilva 4096 Fev 28 02:10 logs
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 objects
+-rw-rw-r--   1 joaopsilva joaopsilva   41 Fev 28 02:18 ORIG_HEAD
+drwxrwxr-x   5 joaopsilva joaopsilva 4096 Fev 28 02:11 refs
+
+/home/joaopsilva/Documents/SOPE/.git/branches:
+total 8
+drwxrwxr-x 2 joaopsilva joaopsilva 4096 Fev 28 02:04 .
+drwxrwxr-x 8 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+
+/home/joaopsilva/Documents/SOPE/.git/hooks:
+total 48
+drwxrwxr-x 2 joaopsilva joaopsilva 4096 Fev 28 02:04 .
+drwxrwxr-x 8 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-rwxrwxr-x 1 joaopsilva joaopsilva  452 Fev 28 02:04 applypatch-msg.sample
+-rwxrwxr-x 1 joaopsilva joaopsilva  896 Fev 28 02:04 commit-msg.sample
+-rwxrwxr-x 1 joaopsilva joaopsilva  189 Fev 28 02:04 post-update.sample
+-rwxrwxr-x 1 joaopsilva joaopsilva  398 Fev 28 02:04 pre-applypatch.sample
+-rwxrwxr-x 1 joaopsilva joaopsilva 1642 Fev 28 02:04 pre-commit.sample
+-rwxrwxr-x 1 joaopsilva joaopsilva 1239 Fev 28 02:04 prepare-commit-msg.sample
+-rwxrwxr-x 1 joaopsilva joaopsilva 1352 Fev 28 02:04 pre-push.sample
+-rwxrwxr-x 1 joaopsilva joaopsilva 4898 Fev 28 02:04 pre-rebase.sample
+-rwxrwxr-x 1 joaopsilva joaopsilva 3611 Fev 28 02:04 update.sample
+
+/home/joaopsilva/Documents/SOPE/.git/info:
+total 12
+drwxrwxr-x 2 joaopsilva joaopsilva 4096 Fev 28 02:04 .
+drwxrwxr-x 8 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-rw-rw-r-- 1 joaopsilva joaopsilva  240 Fev 28 02:04 exclude
+
+/home/joaopsilva/Documents/SOPE/.git/logs:
+total 16
+drwxrwxr-x 3 joaopsilva joaopsilva 4096 Fev 28 02:10 .
+drwxrwxr-x 8 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-rw-rw-r-- 1 joaopsilva joaopsilva 2675 Mar  9 12:30 HEAD
+drwxrwxr-x 4 joaopsilva joaopsilva 4096 Fev 28 02:11 refs
+
+/home/joaopsilva/Documents/SOPE/.git/logs/refs:
+total 16
+drwxrwxr-x 4 joaopsilva joaopsilva 4096 Fev 28 02:11 .
+drwxrwxr-x 3 joaopsilva joaopsilva 4096 Fev 28 02:10 ..
+drwxrwxr-x 2 joaopsilva joaopsilva 4096 Fev 28 02:10 heads
+drwxrwxr-x 3 joaopsilva joaopsilva 4096 Fev 28 02:11 remotes
+
+/home/joaopsilva/Documents/SOPE/.git/logs/refs/heads:
+total 12
+drwxrwxr-x 2 joaopsilva joaopsilva 4096 Fev 28 02:10 .
+drwxrwxr-x 4 joaopsilva joaopsilva 4096 Fev 28 02:11 ..
+-rw-rw-r-- 1 joaopsilva joaopsilva 2675 Mar  9 12:30 master
+
+/home/joaopsilva/Documents/SOPE/.git/logs/refs/remotes:
+total 12
+drwxrwxr-x 3 joaopsilva joaopsilva 4096 Fev 28 02:11 .
+drwxrwxr-x 4 joaopsilva joaopsilva 4096 Fev 28 02:11 ..
+drwxrwxr-x 2 joaopsilva joaopsilva 4096 Fev 28 02:11 origin
+
+/home/joaopsilva/Documents/SOPE/.git/logs/refs/remotes/origin:
+total 12
+drwxrwxr-x 2 joaopsilva joaopsilva 4096 Fev 28 02:11 .
+drwxrwxr-x 3 joaopsilva joaopsilva 4096 Fev 28 02:11 ..
+-rw-rw-r-- 1 joaopsilva joaopsilva 2384 Mar  9 12:30 master
+
+/home/joaopsilva/Documents/SOPE/.git/objects:
+total 496
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 .
+drwxrwxr-x   8 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  9 12:28 00
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  3 17:30 01
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  9 12:28 05
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  2 12:18 07
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 09
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  9 12:30 0a
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  9 12:28 0b
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:20 0c
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  8 23:10 0d
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  2 21:56 0f
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:21 10
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  2 12:18 11
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 13
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 14
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 15
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  8 23:10 16
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  2 09:18 19
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  4 16:17 1a
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  3 17:30 1e
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  2 12:18 1f
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  2 09:18 23
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  4 16:16 25
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:25 26
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  5 23:12 2c
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 2e
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:21 2f
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:25 31
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  3 21:57 32
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 33
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  9 12:30 37
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  2 21:57 3c
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:21 3e
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  9 12:30 3f
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  8 23:10 40
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:21 41
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  4 16:17 46
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  3 21:57 49
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 4a
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  8 23:10 4c
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  5 23:12 4e
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  2 21:57 52
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  9 12:28 55
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  9 12:28 59
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  3 21:57 5c
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 5e
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  8 23:10 5f
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  8 23:10 63
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  8 23:10 64
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 65
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 67
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  3 17:30 68
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  3 21:57 6a
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  8 23:10 6d
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  2 21:57 6e
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 71
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:21 73
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  9 12:30 77
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  2 21:56 78
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:14 7c
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:21 80
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  4 16:17 81
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:21 82
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  9 12:28 83
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  9 12:28 85
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  2 12:18 86
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  9 12:28 87
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 88
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  9 12:28 89
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 8e
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  3 17:30 8f
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  1 21:41 90
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  2 21:56 93
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  2 21:57 94
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  1 21:41 95
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  9 12:28 96
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  2 12:18 9d
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:17 9e
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  5 23:12 9f
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  2 12:18 a1
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  9 12:30 a5
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  8 23:10 a8
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:21 a9
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  8 23:10 aa
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  1 21:41 ab
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  4 16:17 ae
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 b1
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:09 b2
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  9 12:28 b7
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 b8
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:15 bc
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  3 21:57 be
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  9 12:30 bf
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  2 12:18 c0
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 c3
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 c4
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  8 23:10 cb
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  5 23:12 d0
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  8 23:10 d1
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:17 d2
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  2 21:56 d3
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:20 d4
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  1 21:40 d9
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:21 db
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  5 23:12 de
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  9 12:30 df
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:10 e1
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 e3
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 e6
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 e7
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 e8
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  1 21:40 eb
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 ed
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  9 12:30 ee
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:17 f3
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  9 12:28 f4
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 f5
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  9 12:28 f6
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  8 23:10 f9
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 fa
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:21 fe
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 info
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 pack
+
+/home/joaopsilva/Documents/SOPE/.git/objects/00:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  9 12:28 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  292 Mar  9 12:28 634a0c162c61a887541b92617968c1ad17c04e
+
+/home/joaopsilva/Documents/SOPE/.git/objects/01:
+total 16
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  3 17:30 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  208 Mar  3 17:30 34841f5fadfdde72ec38c37a9fc2ba6562a59d
+-r--r--r--   1 joaopsilva joaopsilva   29 Fev 28 02:04 75cc9f9fdc30312a963f0a3e17fa2658fe55d7
+
+/home/joaopsilva/Documents/SOPE/.git/objects/05:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  9 12:28 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  315 Mar  9 12:28 d61bf3f76516337ef27b5035ed52fd32e24c12
+
+/home/joaopsilva/Documents/SOPE/.git/objects/07:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  2 12:18 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva   70 Mar  2 12:18 f5bfab4daa83f04eb75c2ad08ec7ba221eee27
+
+/home/joaopsilva/Documents/SOPE/.git/objects/09:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  224 Fev 28 02:04 90c800ab634fc35c50e0c4ea21d2738d998685
+
+/home/joaopsilva/Documents/SOPE/.git/objects/0a:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  9 12:30 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva   76 Mar  9 12:30 d20ebff08387ea95c95e8eb7b7302178cfcf43
+
+/home/joaopsilva/Documents/SOPE/.git/objects/0b:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  9 12:28 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  560 Mar  9 12:28 9bb1407b8e9585aa70976c16b9db213f8047b9
+
+/home/joaopsilva/Documents/SOPE/.git/objects/0c:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:20 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  169 Fev 28 02:20 397647e1dfacc195c458b87c4fac74e61396e2
+
+/home/joaopsilva/Documents/SOPE/.git/objects/0d:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  8 23:10 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  347 Mar  8 23:10 b48f45c098e946e20723d49a80f3e8a2c74d7d
+
+/home/joaopsilva/Documents/SOPE/.git/objects/0f:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  2 21:56 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  319 Mar  2 21:56 a57a5d2708735a73375ef11fb912bbe97c4972
+
+/home/joaopsilva/Documents/SOPE/.git/objects/10:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:21 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva   50 Fev 28 02:21 ec1e3eca12b9a8f55b65c87f2b1f9b77fee819
+
+/home/joaopsilva/Documents/SOPE/.git/objects/11:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  2 12:18 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  183 Mar  2 12:18 2313446aca2bc357524376b15150207049f4ed
+
+/home/joaopsilva/Documents/SOPE/.git/objects/13:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  104 Fev 28 02:04 6588c0ce2c078028261cf9d4426df1aa429b11
+
+/home/joaopsilva/Documents/SOPE/.git/objects/14:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  198 Fev 28 02:04 7770537d55247bf666861e5f57ceb678599246
+
+/home/joaopsilva/Documents/SOPE/.git/objects/15:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva 2738 Fev 28 02:04 dce4e9848c591b4380584fb8ff300328f61cb4
+
+/home/joaopsilva/Documents/SOPE/.git/objects/16:
+total 16
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  8 23:10 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  194 Mar  8 23:10 b8ada154cc2c4123318a869f9dbb9425fbdae3
+-r--r--r--   1 joaopsilva joaopsilva 2817 Fev 28 02:04 d60661fa063393c1b1710e53f12b45bf5cec4b
+
+/home/joaopsilva/Documents/SOPE/.git/objects/19:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  2 09:18 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva   44 Mar  2 09:18 7077a2e08c3e3021f7d5c67e12365aa746c1f5
+
+/home/joaopsilva/Documents/SOPE/.git/objects/1a:
+total 20
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  4 16:17 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  325 Fev 28 02:04 44173ddc8b1fa642f1346bcc6ca66aa0338f25
+-r--r--r--   1 joaopsilva joaopsilva  249 Fev 28 02:04 57a16fe6a42ad3f10ccf57855f1bc9428a78ae
+-r--r--r--   1 joaopsilva joaopsilva  146 Mar  4 16:17 70e85cae5fd7dc56a08c294b47ccb3f5f33891
+
+/home/joaopsilva/Documents/SOPE/.git/objects/1e:
+total 16
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  3 17:30 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  106 Mar  3 17:30 27787d810dc6999625d50c987fbb4e0ee879af
+-r--r--r--   1 joaopsilva joaopsilva   88 Fev 28 02:20 795557aec216416eff0f55e6c6c2a24c96349f
+
+/home/joaopsilva/Documents/SOPE/.git/objects/1f:
+total 16
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  2 12:18 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva 5705 Mar  2 12:18 161d9f9aa4a3c80a703c2beb100d4d0f57051c
+
+/home/joaopsilva/Documents/SOPE/.git/objects/23:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  2 09:18 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  144 Mar  2 09:18 d24995ef0bbc410d1835be6957847940a93dca
+
+/home/joaopsilva/Documents/SOPE/.git/objects/25:
+total 16
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  4 16:16 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  490 Fev 28 02:25 730cd14b671de1adc0e4c579a161a1d4b66309
+-r--r--r--   1 joaopsilva joaopsilva 1235 Mar  4 16:16 acf5f8539178e4fc866d885471aed258e5b420
+
+/home/joaopsilva/Documents/SOPE/.git/objects/26:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:25 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  195 Fev 28 02:25 d8e8922f442439e3297cd14527927aad664cee
+
+/home/joaopsilva/Documents/SOPE/.git/objects/2c:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  5 23:12 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva   50 Mar  5 23:12 e98838249c95770bfdaf296c3397ba87b50b1f
+
+/home/joaopsilva/Documents/SOPE/.git/objects/2e:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva 2678 Fev 28 02:04 f71f828cfd1563c432d0881ac42e4f5857839d
+
+/home/joaopsilva/Documents/SOPE/.git/objects/2f:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:21 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva   76 Fev 28 02:21 88621234b2941bb61ee0192e04270f46a3a928
+
+/home/joaopsilva/Documents/SOPE/.git/objects/31:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:25 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  176 Fev 28 02:25 86a711cb852affb1da6ccf63785c13841bd11e
+
+/home/joaopsilva/Documents/SOPE/.git/objects/32:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  3 21:57 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  172 Mar  3 21:57 a7c112404571a33c9bef33a22ceefa2ef60be7
+
+/home/joaopsilva/Documents/SOPE/.git/objects/33:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva 3072 Fev 28 02:04 e461ab9d29ee61640046aa092d10bd5cf1348d
+
+/home/joaopsilva/Documents/SOPE/.git/objects/37:
+total 16
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  9 12:30 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva   48 Mar  9 12:30 187117bb679b260252d3f7d19b148c6dd60f55
+-r--r--r--   1 joaopsilva joaopsilva  298 Mar  8 23:10 382da3042e06b8c38dbf0de9d97c733f96e309
+
+/home/joaopsilva/Documents/SOPE/.git/objects/3c:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  2 21:57 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  115 Mar  2 21:57 53accea5976a5fb382f3ea9e0b54be725176b0
+
+/home/joaopsilva/Documents/SOPE/.git/objects/3e:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:21 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva   75 Fev 28 02:21 38744454320b27095a6d6c75c8a2a8f1228cf1
+
+/home/joaopsilva/Documents/SOPE/.git/objects/3f:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  9 12:30 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva   77 Mar  9 12:30 8087e0b50a5d00c3d5bf4e14a5e19b1580672a
+
+/home/joaopsilva/Documents/SOPE/.git/objects/40:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  8 23:10 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva   76 Mar  8 23:10 406641c12372a563ddaeb7befe7b930b771d49
+
+/home/joaopsilva/Documents/SOPE/.git/objects/41:
+total 16
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:21 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  169 Fev 28 02:21 384603afea5b491eeae25eaa6fa7998f14934e
+-r--r--r--   1 joaopsilva joaopsilva  182 Fev 28 02:04 75a31391b88e39b0cd7b569a36f715466eaa00
+
+/home/joaopsilva/Documents/SOPE/.git/objects/46:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  4 16:17 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  144 Mar  4 16:17 e9180988bd0135febb4d14a716ac11236666b5
+
+/home/joaopsilva/Documents/SOPE/.git/objects/49:
+total 16
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  3 21:57 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  222 Mar  3 21:57 0d4f88d57bcfcfb9688c20b04f9ba36e7edd63
+-r--r--r--   1 joaopsilva joaopsilva 1091 Mar  2 09:18 d52d764c81d4bbf52798b887af247d2460522c
+
+/home/joaopsilva/Documents/SOPE/.git/objects/4a:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva 2761 Fev 28 02:04 a97ceb4ea2955c331ec5b57ade876508f94cb4
+
+/home/joaopsilva/Documents/SOPE/.git/objects/4c:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  8 23:10 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  300 Mar  8 23:10 c1d8006d7307e753f7a5df419c19694449b16f
+
+/home/joaopsilva/Documents/SOPE/.git/objects/4e:
+total 20
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  5 23:12 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  281 Fev 28 02:04 743e76fdb3edd4c2d65d2070f7757f33ad8bf5
+-r--r--r--   1 joaopsilva joaopsilva  174 Mar  5 23:12 8178da7f558ebaeb24c3dd349fb72c517b2baa
+-r--r--r--   1 joaopsilva joaopsilva  144 Mar  3 17:30 e363016b828f25b295c4aba3172f463651fa20
+
+/home/joaopsilva/Documents/SOPE/.git/objects/52:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  2 21:57 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  170 Mar  2 21:57 0a03b841f92d5f72b248f1b3e4f876013fe361
+
+/home/joaopsilva/Documents/SOPE/.git/objects/55:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  9 12:28 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  377 Mar  9 12:28 e59331b7106758e0519aa3872bf42f69215d86
+
+/home/joaopsilva/Documents/SOPE/.git/objects/59:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  9 12:28 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  286 Mar  9 12:28 f6bcbc555ec654bd3596e5e333c56ee9ca3d5f
+
+/home/joaopsilva/Documents/SOPE/.git/objects/5c:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  3 21:57 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  144 Mar  3 21:57 36ecc733423ba53614ad4c7a0cb71672afe6f5
+
+/home/joaopsilva/Documents/SOPE/.git/objects/5e:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva 2967 Fev 28 02:04 6baf0bc3e318398f7b8ed7538aee5807100608
+
+/home/joaopsilva/Documents/SOPE/.git/objects/5f:
+total 16
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  8 23:10 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva   49 Mar  2 09:18 61bf8c6eeae7e41518f788f10510d008b0b98f
+-r--r--r--   1 joaopsilva joaopsilva  169 Mar  8 23:10 6e21f4bd1ce11d5e6c853d1a06fb3bfcb3beea
+
+/home/joaopsilva/Documents/SOPE/.git/objects/63:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  8 23:10 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  120 Mar  8 23:10 8a477e97017144060da1f9e9274c28ccd09ecb
+
+/home/joaopsilva/Documents/SOPE/.git/objects/64:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  8 23:10 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva   49 Mar  8 23:10 370bf483952a8c57021b0bf4bcda12975ea725
+
+/home/joaopsilva/Documents/SOPE/.git/objects/65:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  303 Fev 28 02:04 48bdfcc60aff3b3db5b2ff18e6ac27c88ec7fd
+
+/home/joaopsilva/Documents/SOPE/.git/objects/67:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva 3139 Fev 28 02:04 6e7aa5d05fad944a865904caf66f46e583bae3
+
+/home/joaopsilva/Documents/SOPE/.git/objects/68:
+total 16
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  3 17:30 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  187 Mar  3 17:30 37aa7edc534b8a8a6f0068878d8d29b02c5c73
+-r--r--r--   1 joaopsilva joaopsilva  121 Mar  3 17:30 58de5357162df59d7757703a0171152fbfe89a
+
+/home/joaopsilva/Documents/SOPE/.git/objects/6a:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  3 21:57 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  535 Mar  3 21:57 6a426cdcf0bfb8ba4f8d17677b5111990a0586
+
+/home/joaopsilva/Documents/SOPE/.git/objects/6d:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  8 23:10 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  339 Mar  8 23:10 c40169946ed65f1cc5fcce755a95c398d54d45
+
+/home/joaopsilva/Documents/SOPE/.git/objects/6e:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  2 21:57 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  115 Mar  2 21:57 7421def8c8c9a3c07f3a957256d2e19eabe630
+
+/home/joaopsilva/Documents/SOPE/.git/objects/71:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  479 Fev 28 02:04 1d25d24831a9dd5948c6dbe9f51d93f87ade0e
+
+/home/joaopsilva/Documents/SOPE/.git/objects/73:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:21 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva   50 Fev 28 02:21 3327119d24aab8fb24dea96657da2d9e17993e
+
+/home/joaopsilva/Documents/SOPE/.git/objects/77:
+total 16
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  9 12:30 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  181 Mar  9 12:30 9b968474de9a673a8bd35914bce36df4668f14
+-r--r--r--   1 joaopsilva joaopsilva  355 Fev 28 02:04 ea0c57d53b0dc73a4302afcd5e972f909f3edb
+
+/home/joaopsilva/Documents/SOPE/.git/objects/78:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  2 21:56 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  716 Mar  2 21:56 2575e0afc840370cd4449873a5f750192ea767
+
+/home/joaopsilva/Documents/SOPE/.git/objects/7c:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:14 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva   23 Fev 28 02:14 cb5e7aaaa404bf19ccc2e4bc42c5ff703f828c
+
+/home/joaopsilva/Documents/SOPE/.git/objects/80:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:21 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  128 Fev 28 02:21 5d829655c858fee247d66fa8ddcf51f8d12ef2
+
+/home/joaopsilva/Documents/SOPE/.git/objects/81:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  4 16:17 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva   50 Mar  4 16:17 d701c420e2dffb8c11bdf18504aed50b65c110
+
+/home/joaopsilva/Documents/SOPE/.git/objects/82:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:21 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  119 Fev 28 02:21 79e138b89341f08d81c45622ffd587e25fb542
+
+/home/joaopsilva/Documents/SOPE/.git/objects/83:
+total 16
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  9 12:28 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  443 Mar  9 12:28 1e1e0cb4f31f14d4ba336267f52f7d48915b40
+-r--r--r--   1 joaopsilva joaopsilva  188 Fev 28 02:04 fd85698f18bb0255b038545494bf55ab3a62d5
+
+/home/joaopsilva/Documents/SOPE/.git/objects/85:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  9 12:28 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  279 Mar  9 12:28 6780a00040a430a920627bd0c848503a1352d8
+
+/home/joaopsilva/Documents/SOPE/.git/objects/86:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  2 12:18 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  144 Mar  2 12:18 732eed4ea79a8fb440bcc80ee29977d4713805
+
+/home/joaopsilva/Documents/SOPE/.git/objects/87:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  9 12:28 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva   91 Mar  9 12:28 9bafa26f3ba17f37f3a73e9a2d6459b480d88e
+
+/home/joaopsilva/Documents/SOPE/.git/objects/88:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva 2844 Fev 28 02:04 eabc6029ad6c7fcf411c359e08f27b91484f09
+
+/home/joaopsilva/Documents/SOPE/.git/objects/89:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  9 12:28 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  319 Mar  9 12:28 f8cc48f5438a227f59c5605eaac54838c01470
+
+/home/joaopsilva/Documents/SOPE/.git/objects/8e:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  278 Fev 28 02:04 a6be65f508759db845ab0caa214218d009dde2
+
+/home/joaopsilva/Documents/SOPE/.git/objects/8f:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  3 17:30 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  245 Mar  3 17:30 ec260d7cdc84bd4aa75ff443b391aaae5fa492
+
+/home/joaopsilva/Documents/SOPE/.git/objects/90:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  1 21:41 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  119 Mar  1 21:41 8bdd1abe5e5e4846c5717d15658efe1bfc4e0e
+
+/home/joaopsilva/Documents/SOPE/.git/objects/93:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  2 21:56 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  504 Mar  2 21:56 e2902752f5d54e18d7616f5e2872048a34ddd6
+
+/home/joaopsilva/Documents/SOPE/.git/objects/94:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  2 21:57 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  144 Mar  2 21:57 e3c5ba5efbbc60e00f344b83ce173e0c741181
+
+/home/joaopsilva/Documents/SOPE/.git/objects/95:
+total 20
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  1 21:41 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  172 Mar  1 21:41 25efbd4c7bc2df621ff75035dfdff0f225bc67
+-r--r--r--   1 joaopsilva joaopsilva  119 Fev 28 02:25 7f7bc67d2227437bca9aca238549d7aba7f1dd
+-r--r--r--   1 joaopsilva joaopsilva  171 Fev 28 02:15 a3569fa1cdb5b937940a80cd69167769f704ed
+
+/home/joaopsilva/Documents/SOPE/.git/objects/96:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  9 12:28 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva 3146 Mar  9 12:28 734a05c81c3d1e893419e8502b2e1296dc29f2
+
+/home/joaopsilva/Documents/SOPE/.git/objects/9d:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  2 12:18 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  116 Mar  2 12:18 8bf62fd4e457bc71dcfc0d4c7198ca1aaaa4aa
+
+/home/joaopsilva/Documents/SOPE/.git/objects/9e:
+total 20
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:17 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  222 Fev 28 02:04 20688b7d33024d6e53feae449fe7692b692722
+-r--r--r--   1 joaopsilva joaopsilva  298 Fev 28 02:04 46b642fb6ba9e5a63165f6267927516788931e
+-r--r--r--   1 joaopsilva joaopsilva   28 Fev 28 02:17 c120ac337d719f2b78f1bfc6d01350863f01f3
+
+/home/joaopsilva/Documents/SOPE/.git/objects/9f:
+total 16
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  5 23:12 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  146 Mar  5 23:12 676d60bb5bc73183e837483fa228c11517cf85
+-r--r--r--   1 joaopsilva joaopsilva 2952 Fev 28 02:04 d9e14fd552214cad0c3e8fb16ffbcbd6e78895
+
+/home/joaopsilva/Documents/SOPE/.git/objects/a1:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  2 12:18 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  817 Mar  2 12:18 f490b2b084c044159dd0fb9bb17ffb6b9887bf
+
+/home/joaopsilva/Documents/SOPE/.git/objects/a5:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  9 12:30 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  245 Mar  9 12:30 5097243baa797095715049c7d43b38e77688f7
+
+/home/joaopsilva/Documents/SOPE/.git/objects/a8:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  8 23:10 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  102 Mar  8 23:10 88125ec0a244e7e609dd9f2eb4fd849e512acb
+
+/home/joaopsilva/Documents/SOPE/.git/objects/a9:
+total 16
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:21 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva 2634 Fev 28 02:04 4f66b6acecbc11103508b78a30e4020110e310
+-r--r--r--   1 joaopsilva joaopsilva  196 Fev 28 02:21 684214d0feedb8809ae0331d0f1458167f40e7
+
+/home/joaopsilva/Documents/SOPE/.git/objects/aa:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  8 23:10 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  517 Mar  8 23:10 8d738e85e6a61477b09edc2049f0fbb7960910
+
+/home/joaopsilva/Documents/SOPE/.git/objects/ab:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  1 21:41 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  194 Mar  1 21:41 0750f1222a58cb889e6d19c03d2ec25eb86825
+
+/home/joaopsilva/Documents/SOPE/.git/objects/ae:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  4 16:17 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  170 Mar  4 16:17 4f8373b8b0da176a363f7f9e705dba70ca1a7d
+
+/home/joaopsilva/Documents/SOPE/.git/objects/b1:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva 2644 Fev 28 02:04 2e53d83f5e9c6e4462e8b6d100f633c141e3db
+
+/home/joaopsilva/Documents/SOPE/.git/objects/b2:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:09 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva   18 Fev 28 02:09 5c15b81fae06e1c55946ac6270bfdb293870e8
+
+/home/joaopsilva/Documents/SOPE/.git/objects/b7:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  9 12:28 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  290 Mar  9 12:28 02544025c36937806ca7ca8ed0481a8c8fd1d1
+
+/home/joaopsilva/Documents/SOPE/.git/objects/b8:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  112 Fev 28 02:04 87c3d40f7f2f146a83f94612190b9ab2dbe5f2
+
+/home/joaopsilva/Documents/SOPE/.git/objects/bc:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:15 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva   88 Fev 28 02:15 6dd5830faa4b073b2ee6469453ab09c2abf19e
+
+/home/joaopsilva/Documents/SOPE/.git/objects/be:
+total 16
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  3 21:57 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  121 Mar  3 21:57 2c2cf03389b7ddc14d6c4ca9ea0a08bb0b2ed2
+-r--r--r--   1 joaopsilva joaopsilva   88 Fev 28 02:10 cd70f732a0902a8baa3ff146c452a62eefd588
+
+/home/joaopsilva/Documents/SOPE/.git/objects/bf:
+total 16
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  9 12:30 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva   76 Mar  9 12:30 40621cdd25cd90274a076a428a19b63cd54b9a
+-r--r--r--   1 joaopsilva joaopsilva  340 Fev 28 02:04 a56879807f565fda3fd9f0b771ba7ce1fca134
+
+/home/joaopsilva/Documents/SOPE/.git/objects/c0:
+total 16
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  2 12:18 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  402 Mar  2 12:18 0cd41ade916ba13112b90379a475be79a79448
+-r--r--r--   1 joaopsilva joaopsilva  171 Mar  2 09:18 b87754d58206c6464506e0acedacd652b98d6d
+
+/home/joaopsilva/Documents/SOPE/.git/objects/c3:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  280 Fev 28 02:04 0ddef68d95c18ceead981c7a0038e1a045c92c
+
+/home/joaopsilva/Documents/SOPE/.git/objects/c4:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  724 Fev 28 02:04 04ce43b17f94cf6ca94c845a19dd370b0a5ed5
+
+/home/joaopsilva/Documents/SOPE/.git/objects/cb:
+total 16
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  8 23:10 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  107 Mar  1 21:41 6a3d6c983582f879a0500f6bb03f925f87869a
+-r--r--r--   1 joaopsilva joaopsilva  558 Mar  8 23:10 9a9ffd3b94ff86e3fb51dff660933700a73eea
+
+/home/joaopsilva/Documents/SOPE/.git/objects/d0:
+total 16
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  5 23:12 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva   21 Mar  3 17:30 a60d8a7a651bf163616b3654bccbb9500129b5
+-r--r--r--   1 joaopsilva joaopsilva  144 Mar  5 23:12 defef7f3adfe3241b8361edd5c49077ef20815
+
+/home/joaopsilva/Documents/SOPE/.git/objects/d1:
+total 20
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  8 23:10 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  157 Fev 28 02:04 2c54a5dd4e55262b96f0095a6d304f252ede79
+-r--r--r--   1 joaopsilva joaopsilva  234 Mar  8 23:10 b154c5e41afe6e6ad17a41c196b80f238d7dc5
+-r--r--r--   1 joaopsilva joaopsilva   81 Fev 28 02:25 c6dce0cc05930674a1e65817487452aaa9d2cd
+
+/home/joaopsilva/Documents/SOPE/.git/objects/d2:
+total 16
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:17 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva   88 Fev 28 02:17 4336cc8945a90371c5c231a9955e9a2b2b1fd0
+-r--r--r--   1 joaopsilva joaopsilva  377 Fev 28 02:04 7268a435688be3c15e5e78b186cd2396488bbb
+
+/home/joaopsilva/Documents/SOPE/.git/objects/d3:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  2 21:56 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  407 Mar  2 21:56 9251cf532b2bc6fc2454120c4c1126ed446f80
+
+/home/joaopsilva/Documents/SOPE/.git/objects/d4:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:20 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva   37 Fev 28 02:20 eec93a02023188c18404ebe2b36611421aee9b
+
+/home/joaopsilva/Documents/SOPE/.git/objects/d9:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  1 21:40 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva   42 Mar  1 21:40 a1fb5e594831ee6e6af08895fa04f6aa2d1130
+
+/home/joaopsilva/Documents/SOPE/.git/objects/db:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:21 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  195 Fev 28 02:21 26a80d39526b0eeb30736a941fdd4e25bd7e64
+
+/home/joaopsilva/Documents/SOPE/.git/objects/de:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  5 23:12 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva 1253 Mar  5 23:12 70fadd9142ee071d16be100c8868b9233021a9
+
+/home/joaopsilva/Documents/SOPE/.git/objects/df:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  9 12:30 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  169 Mar  9 12:30 d79d8ba48de749645ea63a42e33e3894cdc48b
+
+/home/joaopsilva/Documents/SOPE/.git/objects/e1:
+total 16
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:10 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  135 Fev 28 02:10 5d1b1fa1092666070ac7f7a5e83ea6e380e3eb
+-r--r--r--   1 joaopsilva joaopsilva  117 Fev 28 02:04 77289f8d3ee1f4074483773f836e985386339b
+
+/home/joaopsilva/Documents/SOPE/.git/objects/e3:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva 2702 Fev 28 02:04 9467cb89e115da89e6a88070528d051daae4a3
+
+/home/joaopsilva/Documents/SOPE/.git/objects/e6:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva   15 Fev 28 02:04 9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+
+/home/joaopsilva/Documents/SOPE/.git/objects/e7:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  138 Fev 28 02:04 985c92d0a719bfea18cba5325bd6411df12ff1
+
+/home/joaopsilva/Documents/SOPE/.git/objects/e8:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva 2699 Fev 28 02:04 327aeecee4b2b1be16d41b19fdeb1aa4cc3efb
+
+/home/joaopsilva/Documents/SOPE/.git/objects/eb:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  1 21:40 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  190 Mar  1 21:40 0559df39817c20086f583eae5e56092c34429b
+
+/home/joaopsilva/Documents/SOPE/.git/objects/ed:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva 3106 Fev 28 02:04 7855636f677d13446dd98a7df53bd3739afe8b
+
+/home/joaopsilva/Documents/SOPE/.git/objects/ee:
+total 16
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  9 12:30 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  168 Fev 28 02:04 26695a278d03c10d027ed20429bfda2b5cfba8
+-r--r--r--   1 joaopsilva joaopsilva  155 Mar  9 12:30 7417156ce9f45cbd0b78b6bf738587f342eae9
+
+/home/joaopsilva/Documents/SOPE/.git/objects/f3:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:17 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  173 Fev 28 02:17 f6ecc4ebba77f390869db099d06d092cd042e6
+
+/home/joaopsilva/Documents/SOPE/.git/objects/f4:
+total 16
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  9 12:28 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva  320 Mar  9 12:28 49c33a61395103963a1306259e3d3c4cb2e298
+-r--r--r--   1 joaopsilva joaopsilva  105 Mar  3 21:57 6c9d7b3c82e338e20838a93f289a9d2253c909
+
+/home/joaopsilva/Documents/SOPE/.git/objects/f5:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva 3021 Fev 28 02:04 9e4f3faf9a02c6355c28f5b097f3b7c31b8e88
+
+/home/joaopsilva/Documents/SOPE/.git/objects/f6:
+total 16
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  9 12:28 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva   95 Mar  2 21:57 1d184d75e4cb042af83c206e85ec8456215a16
+-r--r--r--   1 joaopsilva joaopsilva  371 Mar  9 12:28 45ed7d93293920eb5db6179ea0aacc90797f1f
+
+/home/joaopsilva/Documents/SOPE/.git/objects/f9:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Mar  8 23:10 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva   49 Mar  8 23:10 7e3a3c62eb769e042565cb0cccbbe252638dd3
+
+/home/joaopsilva/Documents/SOPE/.git/objects/fa:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva 2886 Fev 28 02:04 2039fc7403cbc07eabc7162f4ad8b9b5371439
+
+/home/joaopsilva/Documents/SOPE/.git/objects/fe:
+total 12
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:21 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+-r--r--r--   1 joaopsilva joaopsilva   81 Fev 28 02:21 c392dabb30b82e56f511e43237915b22d10a14
+
+/home/joaopsilva/Documents/SOPE/.git/objects/info:
+total 8
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+
+/home/joaopsilva/Documents/SOPE/.git/objects/pack:
+total 8
+drwxrwxr-x   2 joaopsilva joaopsilva 4096 Fev 28 02:04 .
+drwxrwxr-x 124 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+
+/home/joaopsilva/Documents/SOPE/.git/refs:
+total 20
+drwxrwxr-x 5 joaopsilva joaopsilva 4096 Fev 28 02:11 .
+drwxrwxr-x 8 joaopsilva joaopsilva 4096 Mar  9 12:30 ..
+drwxrwxr-x 2 joaopsilva joaopsilva 4096 Mar  9 12:30 heads
+drwxrwxr-x 3 joaopsilva joaopsilva 4096 Fev 28 02:11 remotes
+drwxrwxr-x 2 joaopsilva joaopsilva 4096 Fev 28 02:04 tags
+
+/home/joaopsilva/Documents/SOPE/.git/refs/heads:
+total 12
+drwxrwxr-x 2 joaopsilva joaopsilva 4096 Mar  9 12:30 .
+drwxrwxr-x 5 joaopsilva joaopsilva 4096 Fev 28 02:11 ..
+-rw-rw-r-- 1 joaopsilva joaopsilva   41 Mar  9 12:30 master
+
+/home/joaopsilva/Documents/SOPE/.git/refs/remotes:
+total 12
+drwxrwxr-x 3 joaopsilva joaopsilva 4096 Fev 28 02:11 .
+drwxrwxr-x 5 joaopsilva joaopsilva 4096 Fev 28 02:11 ..
+drwxrwxr-x 2 joaopsilva joaopsilva 4096 Mar  9 12:30 origin
+
+/home/joaopsilva/Documents/SOPE/.git/refs/remotes/origin:
+total 12
+drwxrwxr-x 2 joaopsilva joaopsilva 4096 Mar  9 12:30 .
+drwxrwxr-x 3 joaopsilva joaopsilva 4096 Fev 28 02:11 ..
+-rw-rw-r-- 1 joaopsilva joaopsilva   41 Mar  9 12:30 master
+
+/home/joaopsilva/Documents/SOPE/.git/refs/tags:
+total 8
+drwxrwxr-x 2 joaopsilva joaopsilva 4096 Fev 28 02:04 .
+drwxrwxr-x 5 joaopsilva joaopsilva 4096 Fev 28 02:11 ..
+
+/home/joaopsilva/Documents/SOPE/tp01:
+total 36
+drwxrwxr-x 9 joaopsilva joaopsilva 4096 Mar  1 21:39 .
+drwxrwxr-x 6 joaopsilva joaopsilva 4096 Mar  8 21:27 ..
+drwxrwxr-x 2 joaopsilva joaopsilva 4096 Fev 24 22:04 p2
+drwxrwxr-x 2 joaopsilva joaopsilva 4096 Fev 24 22:04 p4
+drwxrwxr-x 2 joaopsilva joaopsilva 4096 Fev 24 22:05 p5
+drwxrwxr-x 2 joaopsilva joaopsilva 4096 Fev 24 22:22 p6
+drwxrwxr-x 2 joaopsilva joaopsilva 4096 Fev 24 23:24 p7
+drwxrwxr-x 2 joaopsilva joaopsilva 4096 Fev 28 01:39 p8
+drwxrwxr-x 2 joaopsilva joaopsilva 4096 Mar  1 21:35 p9
+
+/home/joaopsilva/Documents/SOPE/tp01/p2:
+total 24
+drwxrwxr-x 2 joaopsilva joaopsilva 4096 Fev 24 22:04 .
+drwxrwxr-x 9 joaopsilva joaopsilva 4096 Mar  1 21:39 ..
+-rwxrwxr-x 1 joaopsilva joaopsilva 8549 Fev 24 11:20 p2a
+-rw-rw-r-- 1 joaopsilva joaopsilva  143 Fev 24 12:21 p2a.c
+
+/home/joaopsilva/Documents/SOPE/tp01/p4:
+total 40
+drwxrwxr-x 2 joaopsilva joaopsilva 4096 Fev 24 22:04 .
+drwxrwxr-x 9 joaopsilva joaopsilva 4096 Mar  1 21:39 ..
+-rwxrwxr-x 1 joaopsilva joaopsilva 8604 Fev 24 11:35 p4a
+-rw-rw-r-- 1 joaopsilva joaopsilva  325 Fev 24 12:21 p4a.c
+-rwxrwxr-x 1 joaopsilva joaopsilva 8651 Fev 24 11:43 p4b
+-rw-rw-r-- 1 joaopsilva joaopsilva  398 Fev 24 12:21 p4b.c
+
+/home/joaopsilva/Documents/SOPE/tp01/p5:
+total 72
+drwxrwxr-x 2 joaopsilva joaopsilva 4096 Fev 24 22:05 .
+drwxrwxr-x 9 joaopsilva joaopsilva 4096 Mar  1 21:39 ..
+-rwxrwxr-x 1 joaopsilva joaopsilva 8549 Fev 24 11:48 p5a
+-rw-rw-r-- 1 joaopsilva joaopsilva  215 Fev 24 12:21 p5a.c
+-rwxrwxr-x 1 joaopsilva joaopsilva 8604 Fev 24 12:10 p5b
+-rw-rw-r-- 1 joaopsilva joaopsilva  270 Fev 24 12:21 p5b.c
+-rwxrwxr-x 1 joaopsilva joaopsilva 8603 Fev 24 12:14 p5c
+-rw-rw-r-- 1 joaopsilva joaopsilva  175 Fev 24 12:14 p5c.c
+-rwxrwxr-x 1 joaopsilva joaopsilva 8603 Fev 24 12:18 p5d
+-rw-rw-r-- 1 joaopsilva joaopsilva  213 Fev 24 12:19 p5d.c
+
+/home/joaopsilva/Documents/SOPE/tp01/p6:
+total 108
+drwxrwxr-x 2 joaopsilva joaopsilva 4096 Fev 24 22:22 .
+drwxrwxr-x 9 joaopsilva joaopsilva 4096 Mar  1 21:39 ..
+-rw-rw-r-- 1 joaopsilva joaopsilva  271 Fev 24 22:12 infile.txt
+-rw-rw-r-- 1 joaopsilva joaopsilva  224 Fev 24 22:03 infile.txt~
+-rw-rw-r-- 1 joaopsilva joaopsilva  271 Fev 24 22:12 outfile.txt
+-rwxrwxr-x 1 joaopsilva joaopsilva 8754 Fev 24 21:36 p6a
+-rw-rw-r-- 1 joaopsilva joaopsilva  516 Fev 24 22:22 p6a.c
+-rwxrwxr-x 1 joaopsilva joaopsilva 8806 Fev 24 21:53 p6d
+-rw-rw-r-- 1 joaopsilva joaopsilva  764 Fev 24 22:22 p6d.c
+-rwxrwxr-x 1 joaopsilva joaopsilva 8868 Fev 24 22:04 p6e
+-rw-rw-r-- 1 joaopsilva joaopsilva  503 Fev 24 22:22 p6e.c
+-rwxrwxr-x 1 joaopsilva joaopsilva 8922 Fev 24 22:11 p6g
+-rw-rw-r-- 1 joaopsilva joaopsilva  543 Fev 24 22:22 p6g.c
+-rw-rw-r-- 1 joaopsilva joaopsilva  543 Fev 24 22:11 p6g.c~
+-rwxrwxr-x 1 joaopsilva joaopsilva 8922 Fev 24 22:15 p6h
+-rw-rw-r-- 1 joaopsilva joaopsilva  622 Fev 24 22:17 p6h.c
+-rw-rw-r-- 1 joaopsilva joaopsilva  622 Fev 24 22:16 p6h.c~
+
+/home/joaopsilva/Documents/SOPE/tp01/p7:
+total 28
+drwxrwxr-x 2 joaopsilva joaopsilva 4096 Fev 24 23:24 .
+drwxrwxr-x 9 joaopsilva joaopsilva 4096 Mar  1 21:39 ..
+-rwxrwxr-x 1 joaopsilva joaopsilva 8704 Fev 24 22:31 p7a
+-rw-rw-r-- 1 joaopsilva joaopsilva  568 Fev 24 23:24 p7a.c
+-rw-rw-r-- 1 joaopsilva joaopsilva  568 Fev 24 22:36 p7a.c~
+
+/home/joaopsilva/Documents/SOPE/tp01/p8:
+total 48
+drwxrwxr-x 2 joaopsilva joaopsilva 4096 Fev 28 01:39 .
+drwxrwxr-x 9 joaopsilva joaopsilva 4096 Mar  1 21:39 ..
+-rwxrwxr-x 1 joaopsilva joaopsilva 8802 Fev 24 22:50 p8a
+-rw-rw-r-- 1 joaopsilva joaopsilva  412 Fev 24 23:24 p8a.c
+-rw-rw-r-- 1 joaopsilva joaopsilva  412 Fev 24 22:56 p8a.c~
+-rwxrwxr-x 1 joaopsilva joaopsilva 8906 Fev 28 01:24 p8b
+-rw-rw-r-- 1 joaopsilva joaopsilva 1536 Fev 27 20:41 p8b.c
+-rw-rw-r-- 1 joaopsilva joaopsilva 1536 Fev 27 19:29 p8b.c~
+
+/home/joaopsilva/Documents/SOPE/tp01/p9:
+total 44
+drwxrwxr-x 2 joaopsilva joaopsilva 4096 Mar  1 21:35 .
+drwxrwxr-x 9 joaopsilva joaopsilva 4096 Mar  1 21:39 ..
+-rwxr-xr-x 1 joaopsilva joaopsilva  812 Fev 29 09:07 cx
+-rwxr-xr-x 1 joaopsilva joaopsilva  812 Fev 28 02:25 cx~
+-rwxr-xr-x 1 joaopsilva joaopsilva  207 Mar  1 21:35 p9b
+-rwxr-xr-x 1 joaopsilva joaopsilva  207 Mar  1 21:35 p9b~
+-rwxrwxr-x 1 joaopsilva joaopsilva 8550 Fev 28 01:45 test
+-rw-rw-r-- 1 joaopsilva joaopsilva  102 Fev 28 01:44 test.c
+-rw-rw-r-- 1 joaopsilva joaopsilva  102 Fev 28 01:44 test.c~
+
+/home/joaopsilva/Documents/SOPE/tp02:
+total 32
+drwxrwxr-x 8 joaopsilva joaopsilva 4096 Mar  4 14:11 .
+drwxrwxr-x 6 joaopsilva joaopsilva 4096 Mar  8 21:27 ..
+drwxrwxr-x 2 joaopsilva joaopsilva 4096 Mar  2 09:17 p1
+drwxrwxr-x 2 joaopsilva joaopsilva 4096 Mar  2 12:19 p2
+drwxrwxr-x 2 joaopsilva joaopsilva 4096 Mar  2 21:45 p3
+drwxrwxr-x 2 joaopsilva joaopsilva 4096 Mar  2 22:18 p4
+drwxrwxr-x 2 joaopsilva joaopsilva 4096 Mar  3 22:32 p5
+drwxrwxr-x 3 joaopsilva joaopsilva 4096 Mar  6 01:41 p6
+
+/home/joaopsilva/Documents/SOPE/tp02/p1:
+total 28
+drwxrwxr-x 2 joaopsilva joaopsilva 4096 Mar  2 09:17 .
+drwxrwxr-x 8 joaopsilva joaopsilva 4096 Mar  4 14:11 ..
+-rwxrwxr-x 1 joaopsilva joaopsilva 8821 Mar  2 09:17 p1
+-rw-rw-r-- 1 joaopsilva joaopsilva 2335 Mar  2 09:17 p1.c
+-rw-rw-r-- 1 joaopsilva joaopsilva 2337 Mar  2 09:16 p1.c~
+
+/home/joaopsilva/Documents/SOPE/tp02/p2:
+total 96
+drwxrwxr-x 2 joaopsilva joaopsilva  4096 Mar  2 12:19 .
+drwxrwxr-x 8 joaopsilva joaopsilva  4096 Mar  4 14:11 ..
+-rwxrwxr-x 1 joaopsilva joaopsilva  8866 Mar  2 11:19 copy
+-rw-rw-r-- 1 joaopsilva joaopsilva  2816 Mar  2 11:47 destination2.txt~
+-rw-rw-r-- 1 joaopsilva joaopsilva 12856 Mar  2 12:17 dst.txt
+-rwxrwxr-x 1 joaopsilva joaopsilva  8917 Mar  2 12:17 p2a
+-rw-rw-r-- 1 joaopsilva joaopsilva   710 Mar  2 12:19 p2a.c
+-rw-rw-r-- 1 joaopsilva joaopsilva   705 Mar  2 12:17 p2a.c~
+-rwxrwxr-x 1 joaopsilva joaopsilva  8914 Mar  2 12:14 p2b
+-rw-rw-r-- 1 joaopsilva joaopsilva  1634 Mar  2 12:15 p2b.c
+-rw-rw-r-- 1 joaopsilva joaopsilva  1657 Mar  2 12:14 p2b.c~
+-rw-rw-r-- 1 joaopsilva joaopsilva     0 Mar  2 11:43 source2.txt~
+-rw-rw-r-- 1 joaopsilva joaopsilva     0 Mar  2 11:18 source.txt~
+-rw-rw-r-- 1 joaopsilva joaopsilva 12856 Mar  2 11:59 src.txt
+-rw-rw-r-- 1 joaopsilva joaopsilva     0 Mar  2 11:59 src.txt~
+
+/home/joaopsilva/Documents/SOPE/tp02/p3:
+total 56
+drwxrwxr-x 2 joaopsilva joaopsilva 4096 Mar  2 21:45 .
+drwxrwxr-x 8 joaopsilva joaopsilva 4096 Mar  4 14:11 ..
+-rw-rw-r-- 1 joaopsilva joaopsilva 1264 Mar  2 21:45 dst.txt
+-rwxrwxr-x 1 joaopsilva joaopsilva 8863 Mar  2 21:30 p3a
+-rw-rw-r-- 1 joaopsilva joaopsilva  500 Mar  2 21:45 p3a.c
+-rw-rw-r-- 1 joaopsilva joaopsilva  500 Mar  2 21:30 p3a.c~
+-rwxrwxr-x 1 joaopsilva joaopsilva 8913 Mar  2 21:44 p3b
+-rw-rw-r-- 1 joaopsilva joaopsilva  941 Mar  2 21:45 p3b.c
+-rw-rw-r-- 1 joaopsilva joaopsilva  941 Mar  2 21:44 p3b.c~
+-rw-rw-r-- 1 joaopsilva joaopsilva 1264 Mar  2 21:31 src.txt
+-rw-rw-r-- 1 joaopsilva joaopsilva    0 Mar  2 21:31 src.txt~
+
+/home/joaopsilva/Documents/SOPE/tp02/p4:
+total 12
+drwxrwxr-x 2 joaopsilva joaopsilva 4096 Mar  2 22:18 .
+drwxrwxr-x 8 joaopsilva joaopsilva 4096 Mar  4 14:11 ..
+-rw-rw-r-- 1 joaopsilva joaopsilva  176 Mar  2 22:18 p4a.c
+-rw-rw-r-- 1 joaopsilva joaopsilva    0 Mar  2 22:13 p4a.c~
+
+/home/joaopsilva/Documents/SOPE/tp02/p5:
+total 52
+drwxrwxr-x 2 joaopsilva joaopsilva 4096 Mar  3 22:32 .
+drwxrwxr-x 8 joaopsilva joaopsilva 4096 Mar  4 14:11 ..
+-rw------- 1 joaopsilva joaopsilva   10 Mar  3 21:42 f1.txt
+-rwxrwxr-x 1 joaopsilva joaopsilva 8753 Mar  3 21:42 p5a
+-rw-rw-r-- 1 joaopsilva joaopsilva  984 Mar  3 22:32 p5a.c
+-rw-rw-r-- 1 joaopsilva joaopsilva  984 Mar  3 21:57 p5a.c~
+-rwxrwxr-x 1 joaopsilva joaopsilva 8651 Mar  3 17:21 p5b
+-rw-rw-r-- 1 joaopsilva joaopsilva  375 Mar  3 21:57 p5b.c
+-rw-rw-r-- 1 joaopsilva joaopsilva  375 Mar  3 21:34 p5b.c~
+
+/home/joaopsilva/Documents/SOPE/tp02/p6:
+total 32
+drwxrwxr-x 3 joaopsilva joaopsilva 4096 Mar  6 01:41 .
+drwxrwxr-x 8 joaopsilva joaopsilva 4096 Mar  4 14:11 ..
+-rwxrwxr-x 1 joaopsilva joaopsilva 9026 Mar  5 23:08 p6a
+-rw-rw-r-- 1 joaopsilva joaopsilva 2787 Mar  6 01:41 p6a.c
+-rw-rw-r-- 1 joaopsilva joaopsilva 2787 Mar  5 23:11 p6a.c~
+drwxrwxr-x 2 joaopsilva joaopsilva 4096 Mar  5 23:10 test
+
+/home/joaopsilva/Documents/SOPE/tp02/p6/test:
+total 8
+drwxrwxr-x 2 joaopsilva joaopsilva 4096 Mar  5 23:10 .
+drwxrwxr-x 3 joaopsilva joaopsilva 4096 Mar  6 01:41 ..
+
+/home/joaopsilva/Documents/SOPE/tp03:
+total 48
+drwxrwxr-x 12 joaopsilva joaopsilva 4096 Mar  9 14:05 .
+drwxrwxr-x  6 joaopsilva joaopsilva 4096 Mar  8 21:27 ..
+drwxrwxr-x  2 joaopsilva joaopsilva 4096 Mar  8 21:52 p1
+drwxrwxr-x  2 joaopsilva joaopsilva 4096 Mar  9 14:35 p10
+drwxrwxr-x  2 joaopsilva joaopsilva 4096 Mar  8 22:31 p2
+drwxrwxr-x  2 joaopsilva joaopsilva 4096 Mar  8 22:48 p3
+drwxrwxr-x  2 joaopsilva joaopsilva 4096 Mar  8 23:12 p4
+drwxrwxr-x  2 joaopsilva joaopsilva 4096 Mar  9 11:07 p5
+drwxrwxr-x  2 joaopsilva joaopsilva 4096 Mar  9 11:51 p6
+drwxrwxr-x  2 joaopsilva joaopsilva 4096 Mar  9 11:50 p7
+drwxrwxr-x  2 joaopsilva joaopsilva 4096 Mar  9 12:12 p8
+drwxrwxr-x  2 joaopsilva joaopsilva 4096 Mar  9 12:29 p9
+
+/home/joaopsilva/Documents/SOPE/tp03/p1:
+total 28
+drwxrwxr-x  2 joaopsilva joaopsilva 4096 Mar  8 21:52 .
+drwxrwxr-x 12 joaopsilva joaopsilva 4096 Mar  9 14:05 ..
+-rwxrwxr-x  1 joaopsilva joaopsilva 8744 Mar  8 21:49 p1
+-rw-rw-r--  1 joaopsilva joaopsilva 1281 Mar  8 21:52 p1.c
+-rw-rw-r--  1 joaopsilva joaopsilva 1281 Mar  8 21:51 p1.c~
+
+/home/joaopsilva/Documents/SOPE/tp03/p10:
+total 84
+drwxrwxr-x  2 joaopsilva joaopsilva  4096 Mar  9 14:35 .
+drwxrwxr-x 12 joaopsilva joaopsilva  4096 Mar  9 14:05 ..
+-rw-------  1 joaopsilva joaopsilva 57344 Mar  9 14:35 output.txt
+-rwxrwxr-x  1 joaopsilva joaopsilva  8853 Mar  9 14:35 p10
+-rw-rw-r--  1 joaopsilva joaopsilva   642 Mar  9 14:35 p10.c
+-rw-rw-r--  1 joaopsilva joaopsilva   645 Mar  9 14:33 p10.c~
+
+/home/joaopsilva/Documents/SOPE/tp03/p2:
+total 68
+drwxrwxr-x  2 joaopsilva joaopsilva 4096 Mar  8 22:31 .
+drwxrwxr-x 12 joaopsilva joaopsilva 4096 Mar  9 14:05 ..
+-rwxrwxr-x  1 joaopsilva joaopsilva 8600 Mar  8 21:58 p2a
+-rw-rw-r--  1 joaopsilva joaopsilva  581 Mar  8 22:29 p2a.c
+-rw-rw-r--  1 joaopsilva joaopsilva  581 Mar  8 22:29 p2a.c~
+-rwxrwxr-x  1 joaopsilva joaopsilva 8602 Mar  8 22:02 p2c
+-rw-rw-r--  1 joaopsilva joaopsilva 1108 Mar  8 22:22 p2c.c
+-rw-rw-r--  1 joaopsilva joaopsilva 1003 Mar  8 22:15 p2c.c~
+-rwxrwxr-x  1 joaopsilva joaopsilva 8652 Mar  8 22:24 p2d
+-rw-rw-r--  1 joaopsilva joaopsilva  752 Mar  8 22:31 p2d.c
+-rw-rw-r--  1 joaopsilva joaopsilva  752 Mar  8 22:29 p2d.c~
+
+/home/joaopsilva/Documents/SOPE/tp03/p3:
+total 28
+drwxrwxr-x  2 joaopsilva joaopsilva 4096 Mar  8 22:48 .
+drwxrwxr-x 12 joaopsilva joaopsilva 4096 Mar  9 14:05 ..
+-rwxrwxr-x  1 joaopsilva joaopsilva 8816 Mar  8 22:42 p3
+-rw-rw-r--  1 joaopsilva joaopsilva  626 Mar  8 22:48 p3.c
+-rw-rw-r--  1 joaopsilva joaopsilva  626 Mar  8 22:46 p3.c~
+
+/home/joaopsilva/Documents/SOPE/tp03/p4:
+total 48
+drwxrwxr-x  2 joaopsilva joaopsilva 4096 Mar  8 23:12 .
+drwxrwxr-x 12 joaopsilva joaopsilva 4096 Mar  9 14:05 ..
+-rwxrwxr-x  1 joaopsilva joaopsilva 8752 Mar  8 23:04 p4a
+-rw-rw-r--  1 joaopsilva joaopsilva  459 Mar  8 23:05 p4a.c
+-rw-rw-r--  1 joaopsilva joaopsilva  459 Mar  8 23:05 p4a.c~
+-rwxrwxr-x  1 joaopsilva joaopsilva 8702 Mar  8 23:09 p4b
+-rw-rw-r--  1 joaopsilva joaopsilva  340 Mar  8 23:12 p4b.c
+-rw-rw-r--  1 joaopsilva joaopsilva  340 Mar  8 23:09 p4b.c~
+
+/home/joaopsilva/Documents/SOPE/tp03/p5:
+total 28
+drwxrwxr-x  2 joaopsilva joaopsilva 4096 Mar  9 11:07 .
+drwxrwxr-x 12 joaopsilva joaopsilva 4096 Mar  9 14:05 ..
+-rwxrwxr-x  1 joaopsilva joaopsilva 8751 Mar  9 11:05 p5
+-rw-rw-r--  1 joaopsilva joaopsilva  527 Mar  9 11:07 p5.c
+-rw-rw-r--  1 joaopsilva joaopsilva  527 Mar  9 11:06 p5.c~
+
+/home/joaopsilva/Documents/SOPE/tp03/p6:
+total 48
+drwxrwxr-x  2 joaopsilva joaopsilva 4096 Mar  9 11:51 .
+drwxrwxr-x 12 joaopsilva joaopsilva 4096 Mar  9 14:05 ..
+-rwxrwxr-x  1 joaopsilva joaopsilva 8857 Mar  9 11:24 p6a
+-rw-rw-r--  1 joaopsilva joaopsilva 1151 Mar  9 11:26 p6a.c
+-rw-rw-r--  1 joaopsilva joaopsilva 1151 Mar  9 11:24 p6a.c~
+-rwxrwxr-x  1 joaopsilva joaopsilva 8907 Mar  9 11:34 p6b
+-rw-rw-r--  1 joaopsilva joaopsilva  757 Mar  9 11:51 p6b.c
+-rw-rw-r--  1 joaopsilva joaopsilva  757 Mar  9 11:51 p6b.c~
+
+/home/joaopsilva/Documents/SOPE/tp03/p7:
+total 48
+drwxrwxr-x  2 joaopsilva joaopsilva 4096 Mar  9 11:50 .
+drwxrwxr-x 12 joaopsilva joaopsilva 4096 Mar  9 14:05 ..
+-rwxrwxr-x  1 joaopsilva joaopsilva 8705 Mar  9 11:49 p7
+-rw-rw-r--  1 joaopsilva joaopsilva  444 Mar  9 11:50 p7.c
+-rw-rw-r--  1 joaopsilva joaopsilva  444 Mar  9 11:48 p7.c~
+-rwxrwxr-x  1 joaopsilva joaopsilva 8550 Mar  9 11:50 test
+-rw-rw-r--  1 joaopsilva joaopsilva   76 Mar  9 11:50 test.c
+-rw-rw-r--  1 joaopsilva joaopsilva   65 Mar  9 11:49 test.c~
+
+/home/joaopsilva/Documents/SOPE/tp03/p8:
+total 108
+drwxrwxr-x  2 joaopsilva joaopsilva 4096 Mar  9 12:12 .
+drwxrwxr-x 12 joaopsilva joaopsilva 4096 Mar  9 14:05 ..
+-rwxrwxr-x  1 joaopsilva joaopsilva 8753 Mar  9 11:58 p8a
+-rw-rw-r--  1 joaopsilva joaopsilva  460 Mar  9 11:59 p8a.c
+-rw-rw-r--  1 joaopsilva joaopsilva  460 Mar  9 11:58 p8a.c~
+-rwxrwxr-x  1 joaopsilva joaopsilva 8752 Mar  9 12:01 p8b
+-rw-rw-r--  1 joaopsilva joaopsilva  464 Mar  9 12:01 p8b.c
+-rw-rw-r--  1 joaopsilva joaopsilva  464 Mar  9 12:01 p8b.c~
+-rwxrwxr-x  1 joaopsilva joaopsilva 8753 Mar  9 12:10 p8c
+-rw-rw-r--  1 joaopsilva joaopsilva  532 Mar  9 12:10 p8c.c
+-rw-rw-r--  1 joaopsilva joaopsilva  532 Mar  9 12:10 p8c.c~
+-rwxrwxr-x  1 joaopsilva joaopsilva 8753 Mar  9 12:11 p8d
+-rw-rw-r--  1 joaopsilva joaopsilva  537 Mar  9 12:11 p8d.c
+-rw-rw-r--  1 joaopsilva joaopsilva  537 Mar  9 12:11 p8d.c~
+-rwxrwxr-x  1 joaopsilva joaopsilva 8753 Mar  9 12:12 p8e
+-rw-rw-r--  1 joaopsilva joaopsilva  539 Mar  9 12:12 p8e.c
+-rw-rw-r--  1 joaopsilva joaopsilva  539 Mar  9 12:12 p8e.c~
+
+/home/joaopsilva/Documents/SOPE/tp03/p9:
+total 36
+drwxrwxr-x  2 joaopsilva joaopsilva 4096 Mar  9 12:29 .
+drwxrwxr-x 12 joaopsilva joaopsilva 4096 Mar  9 14:05 ..
+-rwxrwxr-x  1 joaopsilva joaopsilva 8803 Mar  9 12:18 p9a
+-rw-rw-r--  1 joaopsilva joaopsilva  625 Mar  9 12:21 p9a.c
+-rw-rw-r--  1 joaopsilva joaopsilva  625 Mar  9 12:19 p9a.c~
+-rw-rw-r--  1 joaopsilva joaopsilva  785 Mar  9 12:25 p9b.c
+-rw-rw-r--  1 joaopsilva joaopsilva  785 Mar  9 12:24 p9b.c~
