@@ -1,0 +1,45 @@
+/home/joaopsilva/Documents/SOPE/sope-proj
+/home/joaopsilva/Documents/SOPE/sope-proj
+/home/joaopsilva/Documents/SOPE/sope-proj
+total 20
+-rw-rw-r-- 1 joaopsilva joaopsilva    0 Mar 31 16:55 whatevever
+-rw-rw-r-- 1 joaopsilva joaopsilva    0 Mar 31 16:55 another one
+-rw-rw-r-- 1 joaopsilva joaopsilva  791 Mar 31 16:58 lsdir.c
+-rwxrwxr-x 1 joaopsilva joaopsilva 9111 Mar 31 16:58 lsdir
+-rw------- 1 joaopsilva joaopsilva  126 Mar 31 16:58 files.txt
+/home/joaopsilva/Documents/SOPE/sope-proj
+/home/joaopsilva/Documents/SOPE/sope-proj
+total 20
+-rw-rw-r-- 1 joaopsilva joaopsilva    0 Mar 31 16:55 whatevever
+-rw-rw-r-- 1 joaopsilva joaopsilva    0 Mar 31 16:55 another one
+-rw-rw-r-- 1 joaopsilva joaopsilva  924 Mar 31 17:14 lsdir.c
+-rwxrwxr-x 1 joaopsilva joaopsilva 9227 Mar 31 17:14 lsdir
+-rw------- 1 joaopsilva joaopsilva  531 Mar 31 17:14 files.txt
+/home/joaopsilva/Documents/SOPE/sope-proj
+total 20
+-rw-rw-r-- 1 joaopsilva joaopsilva    0 Mar 31 16:55 whatevever
+-rw-rw-r-- 1 joaopsilva joaopsilva    0 Mar 31 16:55 another one
+-rw-rw-r-- 1 joaopsilva joaopsilva  924 Mar 31 17:14 lsdir.c
+-rwxrwxr-x 1 joaopsilva joaopsilva 9227 Mar 31 17:14 lsdir
+-rw------- 1 joaopsilva joaopsilva  894 Mar 31 17:15 files.txt
+/home/joaopsilva/Documents/SOPE/sope-proj
+total 20
+-rw-rw-r-- 1 joaopsilva joaopsilva    0 Mar 31 16:55 whatevever
+-rw-rw-r-- 1 joaopsilva joaopsilva    0 Mar 31 16:55 another one
+-rw-rw-r-- 1 joaopsilva joaopsilva  924 Mar 31 17:14 lsdir.c
+-rwxrwxr-x 1 joaopsilva joaopsilva 9227 Mar 31 17:14 lsdir
+-rw------- 1 joaopsilva joaopsilva 1257 Mar 31 17:15 files.txt
+/home/joaopsilva/Documents/SOPE/sope-proj
+total 20
+-rw-rw-r-- 1 joaopsilva joaopsilva    0 Mar 31 16:55 whatevever
+-rw-rw-r-- 1 joaopsilva joaopsilva    0 Mar 31 16:55 another one
+-rw-rw-r-- 1 joaopsilva joaopsilva  924 Mar 31 17:14 lsdir.c
+-rwxrwxr-x 1 joaopsilva joaopsilva 9227 Mar 31 17:14 lsdir
+-rw------- 1 joaopsilva joaopsilva 1620 Mar 31 17:15 files.txt
+/home/joaopsilva/Documents/SOPE/sope-proj
+total 20
+-rw-rw-r-- 1 joaopsilva joaopsilva    0 Mar 31 16:55 whatevever
+-rw-rw-r-- 1 joaopsilva joaopsilva    0 Mar 31 16:55 another one
+-rw-rw-r-- 1 joaopsilva joaopsilva  924 Mar 31 17:14 lsdir.c
+-rwxrwxr-x 1 joaopsilva joaopsilva 9227 Mar 31 17:14 lsdir
+-rw------- 1 joaopsilva joaopsilva 1983 Mar 31 17:15 files.txt
